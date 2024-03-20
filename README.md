@@ -4,8 +4,11 @@
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaippy-canijo/)
 ##
 
-### Tecnologias e ferramentas que eu uso
+### Tecnologias e ferramentas principais
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
+<br>
+#### Estudando até o momento
+[![My Skills](https://skillicons.dev/icons?i=js,git)](https://skillicons.dev)
 <br>
 <br>
 ![Kaippy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaippy&layout=compact&locale=pt-br&bg_color=0051&text_color=fff&title_color=fff&border_radius=6)
