@@ -27,7 +27,7 @@ Como hobby, me encontro inclinado à programação de jogos e busco incluir na m
 [![My Skills](https://skillicons.dev/icons?i=godot,blende)](https://skillicons.dev)
 
 
-<img src="https://raw.githubusercontent.com/Kaippy/Kaippy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kaippy/Kaippy/snake.svg" alt="Snake animation" />
 
 ###
 
