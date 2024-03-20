@@ -18,3 +18,5 @@ Sou formado em nutrição, mas estou mudando de área. Encontrei uma paixão esc
 Atualmente tenho competências em HTML, CSS e estudando JavaScript para iniciar na área como desenvolvedor web front-end. Além disso, pretendo ingressar em uma graduação de Ciência da Computação.
 
 Como hobby, me encontro inclinado à programação de jogos e busco incluir na minha rotina o estudo do inglês, que considero muito importante nessa jornada.
+
+###### <small>console.log("Hello World!")</small>
