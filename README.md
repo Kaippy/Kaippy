@@ -1,5 +1,4 @@
-### Oi! Eu sou Kaippy Canijo ✌️💻🕹️
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f2f2&size=25&center=false&vCenter=false&width=1000&lines=Oi,+meu+nome+é+Kaippy+Canijo;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaippy.canijo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kcanijo/)
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaippy-canijo/)
@@ -7,8 +6,8 @@
 
 ### Tecnologias e ferramentas que eu uso
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
-</br>
-
+<br>
+<br>
 ![Kaippy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaippy&layout=compact&locale=pt-br&bg_color=0051&text_color=fff&title_color=fff&border_radius=6)
 ##
 
@@ -19,4 +18,7 @@ Atualmente tenho competências em HTML, CSS e estudando JavaScript para iniciar 
 
 Como hobby, me encontro inclinado à programação de jogos e busco incluir na minha rotina o estudo do inglês, que considero muito importante nessa jornada.
 
-###### <small><i>console.log("Hello World!");<i></small>
+###### <small><i>console.log("Hello World!");</i></small>
+
+#### Nas horas vagas
+[![My Skills](https://skillicons.dev/icons?i=godot,blende)](https://skillicons.dev)
