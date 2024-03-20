@@ -19,4 +19,4 @@ Atualmente tenho competências em HTML, CSS e estudando JavaScript para iniciar 
 
 Como hobby, me encontro inclinado à programação de jogos e busco incluir na minha rotina o estudo do inglês, que considero muito importante nessa jornada.
 
-###### <small><i>console.log("Hello World!")<i></small>
+###### <small><i>console.log("Hello World!");<i></small>
