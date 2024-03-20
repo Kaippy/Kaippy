@@ -5,8 +5,8 @@
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaippy-canijo/)
 ##
 
-### Tecnologias que eu uso
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+### Tecnologias e ferramentas que eu uso
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
 </br>
 
 ![Kaippy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaippy&layout=compact&locale=pt-br&bg_color=0051&text_color=fff&title_color=fff&border_radius=6)
@@ -19,4 +19,4 @@ Atualmente tenho competências em HTML, CSS e estudando JavaScript para iniciar 
 
 Como hobby, me encontro inclinado à programação de jogos e busco incluir na minha rotina o estudo do inglês, que considero muito importante nessa jornada.
 
-###### <small>console.log("Hello World!")</small>
+###### <small><i>console.log("Hello World!")<i></small>
