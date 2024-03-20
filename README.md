@@ -1,11 +1,11 @@
-#### Oi! Eu sou Kaippy Canijo ✌️💻🕹️
+### Oi! Eu sou Kaippy Canijo ✌️💻🕹️
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaippy.canijo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kcanijo/)
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaippy-canijo/)
 ##
 
-#### Tecnologias e ferramentas que eu uso
+### Tecnologias e ferramentas que eu uso
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
 </br>
 
