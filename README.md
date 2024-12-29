@@ -24,6 +24,6 @@ Como hobby, me encontro inclinado à programação de jogos e busco incluir na m
 ###### <small><i>console.log("Hello World!");</i></small>
 
 #### Nas horas vagas
-[![My Skills](https://skillicons.dev/icons?i=godot,blende)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,blende)](https://skillicons.dev)
 <br><br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1VWVHW)
