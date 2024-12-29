@@ -5,10 +5,10 @@
 ##
 
 ### Tecnologias e ferramentas principais
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git)](https://skillicons.dev)
 <br>
 #### Estudando até o momento
-[![My Skills](https://skillicons.dev/icons?i=js,git,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,cs,dotnet)](https://skillicons.dev)
 <br>
 <br>
 ![Kaippy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaippy&layout=compact&locale=pt-br&bg_color=0051&text_color=fff&title_color=fff&border_radius=6)
