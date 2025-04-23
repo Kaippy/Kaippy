@@ -15,11 +15,11 @@
 ##
 
 #### Sobre mim
-Sou formado em nutrição, mas estou mudando de área. Encontrei uma paixão escrevendo códigos e não acredito nunca ter tentado antes. Hoje eu estou decidido a encontrar minha realização como profissional de desenvolvimento web.
+Sou formado em nutrição, mas estou mudando de área. Encontrei uma paixão escrevendo códigos e não acredito nunca ter tentado antes. Hoje eu estou decidido a encontrar minha realização como dev.
 
-Atualmente tenho competências em HTML, CSS e estudando JavaScript para iniciar na área como desenvolvedor web front-end. Atualmente estou cursando Ciência da Computação.
+Estou cursando Ciência da Computação e tenho grande interesse em C# e em áreas ligadas ao desenvolvimento. Iniciei meus estudos nessa linguagem, pois é com ela que pretendo construir minha trajetória profissional. Atualmente tenho competências em HTML, CSS. 
 
-Como hobby, me encontro inclinado à programação de jogos e busco incluir na minha rotina o estudo do inglês, que considero muito importante nessa jornada.
+Busco incluir na minha rotina o estudo do inglês, que considero muito importante nessa jornada.
 
 ###### <small><i>console.log("Hello World!");</i></small>
 
